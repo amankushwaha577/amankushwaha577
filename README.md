@@ -1,4 +1,8 @@
-# <div align="center">Holla 👋 </div>
+<h1 align="center">
+  <img src="https://user-images.githubusercontent.com/53748350/263533248-a99f2045-2bec-4726-ae9d-d6aa0b79dbf1.gif" alt="Rahul Vashishtha" />
+</h1>
+
+
 ### <div align="center"> I'm Aman Kushwaha, A passionate Software development Engineer from India 👨‍💻</div>  
   
 
