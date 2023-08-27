@@ -3,7 +3,7 @@
 </h1>
 
 
-### <div align="center"> I'm Aman Kushwaha, A passionate Software development Engineer from India 👨‍💻</div>  
+### <div align="center">Holla 👋 I'm Aman Kushwaha, A passionate Software development Engineer from India 👨‍💻</div>  
   
 
 - 🔭 I’m currently working on [MERN Stack Projects.](https://github.com/amankushwaha577)  
