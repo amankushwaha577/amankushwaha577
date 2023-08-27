@@ -1,4 +1,4 @@
-### <div align="center">Holla 👋
+# <div align="center">Holla 👋
  I'm Aman Kushwaha, A passionate Software development Engineer from India 👨‍💻</div>  
   
 
@@ -61,6 +61,7 @@
 <div align="center">  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
+<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>  
 </div>
 
 </td><td valign="top" width="33%">
@@ -95,7 +96,7 @@
 <a href="https://instagram.com/https://instagram.com/the_amankushwaha?igshid=MmIzYWVlNDQ5Yg==" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.youtube.com/user/https://www.youtube.com/@the_amankushwaha/featured" target="_blank">
+<a href="https://www.youtube.com/@the_amankushwaha" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
 </div>  
@@ -120,24 +121,11 @@
 
 ### Currently Unveiling in Technical Hub : NOIDA  
 Noida stands as a dynamic hub of opportunity and growth. From the awe-inspiring architecture of Wave Rock Garden to the bustling DLF Mall of India, the city showcases a fusion of innovation and design. Its diverse population brings a tapestry of festivals, languages, and flavors, making it a microcosm of India's vibrant culture. This modern oasis also boasts educational institutions, corporate centers, and a pulsating entertainment scene. Noida isn't just a suburb; it's a tapestry of urban delights waiting to be explored.  
-  
-
-<br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
-
-  
-
-<br/>  
-
+ 
 <div align="center"></div>  
-
-<br/>  
 
 
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="center"><a href="https://github.com/amankushwaha577" target="_blank">Aman Kushwaha 👨‍💻</a></div>
